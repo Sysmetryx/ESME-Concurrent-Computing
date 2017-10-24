@@ -5,9 +5,12 @@ Disclaimer :
 
 Les codes forunis sont fait selon ma logique, il est donc vivement recommandé de vous les approprier en les refaisant à votre sauce; mes méthodes ne sont pas parfaites. Je vous demande de donner les liens vers ce GitHub ou de ne pas alterer les codes si vous les partagez.
 Surtout, cherchez par vous même avant de copier les codes, vous trouverez tout un tas d'info sur le net. Parmi les sites que j'utilise :
-https://stackoverflow.com/
-http://www.cplusplus.com/
-https://openclassrooms.com/
+
+https://stackoverflow.com/ 
+
+http://www.cplusplus.com/ 
+
+https://openclassrooms.com/ 
 
 Conseils d'utilisation :
 
